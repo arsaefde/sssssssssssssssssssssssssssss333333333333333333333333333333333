@@ -1,0 +1,58 @@
+ .u-section-1 {
+  background-image: url("images/Saat13.00-23.00KadarAz.png");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 755px;
+}
+
+.u-section-1 .u-video-1 {
+  width: 790px;
+  height: 458px;
+  margin: 248px auto 50px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 623px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 437px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 720px;
+    height: 418px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 611px;
+  }
+
+  .u-section-1 .u-video-1 {
+    height: 314px;
+    margin-top: 221px;
+    margin-bottom: 60px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 570px;
+  }
+
+  .u-section-1 .u-video-1 {
+    height: 198px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
